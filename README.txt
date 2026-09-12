@@ -1,17 +1,4 @@
-O2 Tower München – Website
-==========================
+O2 Tower München - Klemmbaustein-Modell
 
-Die Website ist vollständig statisch und benötigt keinen Webserver.
-
-Start:
-- index.html im Browser öffnen
-
-Enthalten:
-- index.html
-- styles.css
-- app.js
-- assets/ (Modell- und Bauansichten)
-- O2_Tower_Muenchen_Bauanleitung.pdf
-
-Für eine Veröffentlichung kann der komplette Ordner z. B. auf GitHub Pages,
-Netlify, Vercel oder einen normalen Webspace kopiert werden.
+Start: index.html im Browser öffnen.
+Die PDF-Bauanleitung liegt im gleichen Ordner.
